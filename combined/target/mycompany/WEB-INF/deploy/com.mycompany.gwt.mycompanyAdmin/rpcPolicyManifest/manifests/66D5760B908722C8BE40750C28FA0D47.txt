@@ -1,0 +1,2 @@
+serviceClass: org.broadleafcommerce.openadmin.client.service.AdminSecurityService
+path: 151ED3E556770C6321522749524BBCBE.gwt.rpc

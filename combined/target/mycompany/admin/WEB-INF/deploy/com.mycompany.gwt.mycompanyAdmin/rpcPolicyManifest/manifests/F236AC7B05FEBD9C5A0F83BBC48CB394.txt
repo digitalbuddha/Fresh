@@ -1,0 +1,2 @@
+serviceClass: org.broadleafcommerce.openadmin.client.service.AppConfigurationService
+path: EBA964B5F6B0B6110AFAA646AE291DDC.gwt.rpc

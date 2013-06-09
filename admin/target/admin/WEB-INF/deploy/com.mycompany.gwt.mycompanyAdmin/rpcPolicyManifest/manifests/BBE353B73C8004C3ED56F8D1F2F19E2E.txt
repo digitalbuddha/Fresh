@@ -1,0 +1,2 @@
+serviceClass: org.broadleafcommerce.openadmin.client.service.UtilityService
+path: CF4EF8B8B6898A69FF072CF9FCB5E644.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: org.broadleafcommerce.openadmin.client.service.AdminExporterService
+path: 9E56C145212F836D6D9C2C95E193866A.gwt.rpc

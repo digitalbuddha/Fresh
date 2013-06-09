@@ -1,0 +1,2 @@
+serviceClass: org.broadleafcommerce.openadmin.client.service.DynamicEntityService
+path: F9C7463449883B85D9C5989E35C363E6.gwt.rpc

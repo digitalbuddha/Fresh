@@ -1,0 +1,2 @@
+serviceClass: org.broadleafcommerce.admin.client.service.AdminCatalogService
+path: 5E6C011F2E9F9FDA35A66C773AE10148.gwt.rpc

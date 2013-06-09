@@ -1,0 +1,96 @@
+package org.broadleafcommerce.openadmin.client;
+
+public class OpenAdminMessages_default {
+  private java.util.Map<String, String> i18nProperties = new java.util.HashMap<String, String>();
+  public OpenAdminMessages_default() {
+  i18nProperties.put("permissionManagementMainTitle","Permission Management");
+i18nProperties.put("reclaimTooltip","Reclaim selected changes back to your sandbox.");
+i18nProperties.put("assetUrlFieldTitle","Url");
+i18nProperties.put("cancel","Cancel");
+i18nProperties.put("viewFullSize","View Full Size");
+i18nProperties.put("roleName","Role");
+i18nProperties.put("baseAdminUser","Admin User");
+i18nProperties.put("refreshTitle","Refresh");
+i18nProperties.put("restoreTitle","Restore");
+i18nProperties.put("resetDataTitle","Reset Data");
+i18nProperties.put("userPermissionsTitle","User Permissions");
+i18nProperties.put("promoteTitle","Promote");
+i18nProperties.put("ejb3ConfigurationPreProcessTitle","Initializing Configuration");
+i18nProperties.put("newPermissionTitle","Create New Permission");
+i18nProperties.put("revertAllTooltip","Revert all items from this sandbox.");
+i18nProperties.put("editRichText","Edit...");
+i18nProperties.put("inActiveMessage","This entity is in an inactive state.");
+i18nProperties.put("ok","Ok");
+i18nProperties.put("orderItemCombineLabel","Can this order item discount be combined with other order item discounts?");
+i18nProperties.put("promoteAllTitle","Promote All");
+i18nProperties.put("restoreTooltip","Restores form to last save point");
+i18nProperties.put("baseAdminRole","Admin Role");
+i18nProperties.put("userRolesTitle","User Roles");
+i18nProperties.put("hideArchivedRecords","Hide Deleted");
+i18nProperties.put("dirtyMessage","This entity has been edited by you.");
+i18nProperties.put("assetSearchButtonTitle","Search");
+i18nProperties.put("unlockTooltip","Unlock selected items.  This will revert all changes to these items made by the submitting user.");
+i18nProperties.put("permissionDetailsTitle","Permission Details");
+i18nProperties.put("unlockTitle","Unlock");
+i18nProperties.put("revertTitle","Revert");
+i18nProperties.put("selectPolymorphicType","Select The Type To Add");
+i18nProperties.put("addTitle","Add");
+i18nProperties.put("rejectTitle","Reject");
+i18nProperties.put("assetNameFieldTitle","Name");
+i18nProperties.put("permissionListTitle","Permissions");
+i18nProperties.put("blcProjectPage","Broadleaf Commerce Project Page");
+i18nProperties.put("rolesTitle","Role");
+i18nProperties.put("baseAdminPermission","Admin Permission");
+i18nProperties.put("assetSearchTitle","Asset Search");
+i18nProperties.put("userManagementMainTitle","User Management");
+i18nProperties.put("searchForPermission","Search For A Permission");
+i18nProperties.put("saveTitle","Save");
+i18nProperties.put("noModulesAuthorized","Your login does not have authorization to view any modules.");
+i18nProperties.put("newRoleTitle","Create New Role");
+i18nProperties.put("reclaimTitle","Reclaim");
+i18nProperties.put("clientBuildDate","${clientBuildDate}");
+i18nProperties.put("contactingServerTitle","Contacting Server");
+i18nProperties.put("confirmResetPassword","Are you sure you want to reset the customer's password?");
+i18nProperties.put("currentUser","Current User");
+i18nProperties.put("revertAllTitle","Revert All");
+i18nProperties.put("showArchivedRecords","Show Deleted");
+i18nProperties.put("workflowEnabledPreProcessTitle","Checking Workflow Status");
+i18nProperties.put("lockedMessage","Last Updated By <B> ${userName} </B> On <B> ${date} </B>.");
+i18nProperties.put("newAdminUserTitle","Create New Admin User");
+i18nProperties.put("deletedMessage","This entity is in a deleted state.");
+i18nProperties.put("resetPasswordSuccessful","Customer password reset was successful.");
+i18nProperties.put("openAdminVersion","2.2.0-GA");
+i18nProperties.put("rejectAllTitle","Reject All");
+i18nProperties.put("userListTitle","Users");
+i18nProperties.put("revertTooltip","Revert selected changes.");
+i18nProperties.put("removeTitle","Remove");
+i18nProperties.put("noAuthorizedPages","Your login does not have authorization to view any pages for the passed in module.");
+i18nProperties.put("roleDetailsTitle","Role Details");
+i18nProperties.put("previewTitle","Preview");
+i18nProperties.put("clonePromotionHelp","Duplicate This Promotion");
+i18nProperties.put("newItemTitle","Add New Item");
+i18nProperties.put("promoteAllTooltip","Promote all items from this sandbox.");
+i18nProperties.put("unlockAllTitle","Unlock All");
+i18nProperties.put("urlStructurePreProcessTitle","Retrieving Url Structure Data");
+i18nProperties.put("userAdminModuleTitle","User Administration");
+i18nProperties.put("insufficientPrivileges","Insufficient Privileges. Permission is required to execute this action.");
+i18nProperties.put("userDetailsTitle","User Details");
+i18nProperties.put("reclaimAllTitle","Reclaim All");
+i18nProperties.put("userSecurityPreProcessTitle","Establishing User Security");
+i18nProperties.put("rejectTooltip","Reject selected changes and return to the user's sandbox.");
+i18nProperties.put("emptyMessage","Enter Field Search Terms Above To Populate The Grid");
+i18nProperties.put("promoteTooltip","Promote selected changes.");
+i18nProperties.put("reclaimAllTooltip","Reclaim all items back to your sandbox.");
+i18nProperties.put("logout","Logout");
+i18nProperties.put("uploadArtifactTitle","Upload Artifact");
+i18nProperties.put("roleListTitle","Roles");
+i18nProperties.put("roleManagementMainTitle","Role Management");
+i18nProperties.put("buildDate","2013-02-01 22:09:18");
+i18nProperties.put("unlockAllTooltip","Unlock all items from this sandbox.   This will revert all changes to these items made by the submitting user.");
+i18nProperties.put("rejectAllTooltip","Reject all changes and return to the user's sandbox.");
+}
+  
+  public java.util.Map<String, String> getAlli18nProperties() {
+  return i18nProperties;
+  }
+}

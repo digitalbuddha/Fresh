@@ -1,0 +1,6 @@
+_ = org_broadleafcommerce_openadmin_client_reflection_ReflectiveFactoryWrapper$16.prototype;
+_.onSuccess__V = function org_broadleafcommerce_openadmin_client_reflection_ReflectiveFactoryWrapper$16_onSuccess__V(){
+  this.org_broadleafcommerce_openadmin_client_reflection_ReflectiveFactoryWrapper$16_val$asyncClient.onSuccess__Ljava_lang_Object_2V(new org_broadleafcommerce_cms_admin_client_presenter_sandbox_SandBoxPresenter_SandBoxPresenter__V);
+}
+;
+$entry(com_google_gwt_core_client_impl_AsyncFragmentLoader_onLoad__IV)(16);

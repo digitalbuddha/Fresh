@@ -1,0 +1,2 @@
+serviceClass: org.broadleafcommerce.openadmin.client.service.UploadProgressService
+path: 0F4A8A7EBB5CCD242C1260372B0B8203.gwt.rpc

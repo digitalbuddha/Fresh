@@ -1,0 +1,9 @@
+# Module com.mycompany.gwt.mycompanyAdmin
+# RPC service class, partial path of RPC policy file
+org.broadleafcommerce.openadmin.client.service.AdminSecurityService, 151ED3E556770C6321522749524BBCBE.gwt.rpc
+org.broadleafcommerce.openadmin.client.service.DynamicEntityService, F9C7463449883B85D9C5989E35C363E6.gwt.rpc
+org.broadleafcommerce.openadmin.client.service.AdminExporterService, 9E56C145212F836D6D9C2C95E193866A.gwt.rpc
+org.broadleafcommerce.openadmin.client.service.UtilityService, CF4EF8B8B6898A69FF072CF9FCB5E644.gwt.rpc
+org.broadleafcommerce.openadmin.client.service.UploadProgressService, 0F4A8A7EBB5CCD242C1260372B0B8203.gwt.rpc
+org.broadleafcommerce.admin.client.service.AdminCatalogService, 5E6C011F2E9F9FDA35A66C773AE10148.gwt.rpc
+org.broadleafcommerce.openadmin.client.service.AppConfigurationService, EBA964B5F6B0B6110AFAA646AE291DDC.gwt.rpc
